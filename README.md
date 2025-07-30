@@ -62,11 +62,9 @@ _Add screenshots or a demo video link here to showcase navigation, floor plans, 
 
 Pull requests are welcome! For significant changes, open an issue first to discuss your ideas.
 
----
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+
 
 ---
 
